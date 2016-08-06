@@ -1,0 +1,18 @@
+body{
+    background:url(http://www.publicdomainpictures.net/pictures/130000/nahled/pink-background-1436871727ylE.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+h2{
+    color:bisque;
+}
+h3{
+    color:white;
+    text-decoration: underline;
+}
+id{
+    font-size:2em;
+}
